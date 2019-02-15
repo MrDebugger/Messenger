@@ -1,7 +1,7 @@
 # Messenger
  API based Messenger that sends, receive messages as well as files. This Messenger is bonded with Abasyn University Peshawar LMS server. Only Abasyn University Peshawar Students and teachers will be able to use this messenger.
 ### Introduction Video
- <a href="https://www.youtube.com/watch?v=c6tlsEiihPk" target="_blank">Advanced GUI Based Messenger in Java - Ijaz Ur Rahim</a>
+ <a href="https://www.youtube.com/watch?v=c6tlsEiihPk" target="_blank">Advanced GUI Based Messenger</a>
 ### Developer (Author)
  Ijaz Ur Rahim
 ### Language Used
